@@ -1,0 +1,4 @@
+## Synopsis
+
+Miscellaneous Jupyter notebooks.
+
